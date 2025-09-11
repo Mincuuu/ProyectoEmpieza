@@ -1,7 +1,6 @@
 # YONKI
 ### MINCU MARICON
+## TITULO
 hola
-
-
-
-hola mario
+pau silvestre y ferran bujarras
+hola soy mincu
